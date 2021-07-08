@@ -1,0 +1,1 @@
+# VespaShiba.sol
